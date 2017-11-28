@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RxJavaLearning</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_just">JustActivity</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_debounce">DebounceActivity</string>
+    <string name="title_activity_repeat">RepeatActivity</string>
+    <string name="do_some_work">Do some work</string>
+    <string name="title_activity_kotlin">KotlinActivity</string>
+</resources>
